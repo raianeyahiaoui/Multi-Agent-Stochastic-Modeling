@@ -64,15 +64,6 @@ A detailed snapshot of the simulation environment where **Red Circles** represen
 
 ---
 
-## 🚀 Getting Started
-
-### 🚀 Installation
-
-1. **Clone the repository:**
-   bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Multi-Agent-Stochastic-Modeling.git
-pip install -r requirements.txt
-python main.py
 
 📜 License
 Distributed under the Apache License 2.0. See the LICENSE file for more information.
