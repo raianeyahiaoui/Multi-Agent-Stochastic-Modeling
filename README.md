@@ -66,23 +66,16 @@ A detailed snapshot of the simulation environment where **Red Circles** represen
 
 ## 🚀 Getting Started
 
-### Installation
-1. Clone the repository:
+### 🚀 Installation
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/Multi-Agent-Stochastic-Modeling.git
-
-   Install the necessary dependencies:
-code
-Bash
 pip install -r requirements.txt
-Execution
-To run a single simulation run with visualization:
-code
-Bash
 python main.py
-To perform multi-parameter analysis, use the provided notebook.ipynb in a Jupyter or Google Colab environment.
-📜 License
-Distributed under the Apache License 2.0. See LICENSE for more information.
-🤝 Contact
-Yahiaoui Raiane - Telecommunications Systems Engineer
-Email: ikba.king2015@gmail.com
+##📜 License
+Distributed under the Apache License 2.0. See the LICENSE file for more information.
+
+##🤝 Contact
+Yahiaoui Raiane – Telecommunications Systems Engineer
+📧 Email: ikba.king2015@gmail.com
